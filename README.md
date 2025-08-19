@@ -26,7 +26,7 @@ Para clonar e rodar o projeto localmente, siga os passos abaixo:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/Gugzz21/toDo.git](https://github.com/Gugzz21/toDo.git)
+    git clone https://github.com/Gugzz21/toDo.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
